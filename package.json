@@ -1,0 +1,27 @@
+{
+  "name": "fresh-stack",
+  "version": "1.0.0",
+  "description": "🔥 Universal fancy app scaffolder CLI for React, Flutter, Node, Python & more",
+  "bin": {
+    "create-project": "./bin/fresh-stack.js"
+  },
+  "keywords": [
+    "cli",
+    "scaffold",
+    "starter",
+    "flutter",
+    "react",
+    "nestjs",
+    "node",
+    "python"
+  ],
+  "author": "Yihuna the GOAT 🐐",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.0.0",
+    "yargs": "^17.7.2",
+    "execa": "^8.0.1"
+  },
+  "type": "module"
+}
