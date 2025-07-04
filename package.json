@@ -1,5 +1,5 @@
 {
-  "name": "fresh-stack",
+  "name": "start-project",
   "version": "1.0.0",
   "description": "🔥 Universal fancy app scaffolder CLI for React, Flutter, Node, Python & more",
   "bin": {
