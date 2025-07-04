@@ -1,9 +1,9 @@
 {
-  "name": "start-project",
+  "name": "@hailemichael121/start-project",
   "version": "1.0.0",
-  "description": "🔥 Universal fancy app scaffolder CLI for React, Flutter, Node, Python & more",
+  "description": "...",
   "bin": {
-    "create-project": "./bin/fresh-stack.js"
+    "start-project": "./bin/fresh-stack.js"
   },
   "keywords": [
     "cli",
